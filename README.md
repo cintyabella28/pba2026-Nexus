@@ -25,7 +25,7 @@ This project aims to compare the performance of Machine Learning and Deep Learni
 
 2. Related Work
 
-Several studies have explored sentiment analysis using different machine learning and deep learning approaches. Traditional machine learning algorithms such as Naive Bayes, Support Vector Machine, and Logistic Regression have been widely used due to their efficiency and relatively good performance on text classification tasks.
+Several studies have explored sentiment analysis using different deep learning and machine learning approaches. Traditional machine learning algorithms such as Naive Bayes, Support Vector Machine, and Logistic Regression have been widely used due to their efficiency and relatively good performance on text classification tasks.
 
 Recent research has shown that deep learning models such as recurrent neural networks and transformer-based models can outperform traditional approaches by capturing contextual information within sequences of words. In particular, LSTM networks are capable of learning long-term dependencies in text data, which makes them suitable for sentiment analysis.
 
